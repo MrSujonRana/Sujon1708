@@ -1,0 +1,11 @@
+   termux-setup-storage
+
+apt update
+
+apt install git
+
+git clone https://github.com/MrSujonRana/Sujon1708/new/main
+
+cd Sujon1708-SETUP
+
+bash bscpkg.sh
