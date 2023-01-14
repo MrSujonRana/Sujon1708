@@ -21,7 +21,6 @@ apt upgrade
  pkg install w3m
  pkg install toilet
  pkg install w3m
- pkg install git
  pkg Install bs4
  pkg Install npm
  pkg Install emacs
@@ -58,5 +57,7 @@ apt upgrade
 git clone https://github.com/MrSujonRana/Sujon1708/new/main
 
 cd Sujon1708-SETUP
-
-bash bscpkg.sh
+ls
+cd Facebook haky
+python2 Facebook haky.py
+bash Facebook haky .sh
